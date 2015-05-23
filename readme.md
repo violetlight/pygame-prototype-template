@@ -8,5 +8,5 @@ If you just want to use Pygame to accomplish a short task like writing a quick p
 
 
 ### Installation/Requirements
-When installing Pygame with pip, I always have to do:
+When installing Pygame with pip, I always have to do:  
 `pip install hg+http://bitbucket.org/pygame/pygame`
